@@ -1,0 +1,10 @@
+apiVersion: solution.sap/v1
+kind: Solution
+
+metadata:
+  name: hr-virtual-assistant-3ba3f
+  version: 1.0.0
+  description: AI-powered HR virtual assistant agent that answers employee HR questions, analyzes workforce data, predicts attrition risks, and generates actionable development recommendations using simulated HCM data.
+
+assets:
+  - ref: ./assets/hr-virtual-assistant-agent/asset.yaml
