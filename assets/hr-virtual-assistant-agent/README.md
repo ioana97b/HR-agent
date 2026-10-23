@@ -1,5 +1,5 @@
 # HR Virtual Assistant Agent
-
+ developed by joule
 ## Overview
 
 Uses A2A Protocol, LangGraph, LiteLLM, and SAP Cloud SDK.
